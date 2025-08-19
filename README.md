@@ -19,3 +19,5 @@ Done!
  When ubisoft updates ID's you should be fine from now on.
  
  Fix-method I used: Sloppy requiring minimal changes by using a physical update (not best practice)
+
+ Big thanks to "ShadixAced" on GOG as they provided the link for getting the updated ID's via the API.
