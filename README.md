@@ -9,7 +9,7 @@ Installation:
 
  Download the plugin.py and update_consts.py from here.
 
- Replace the plugin.py with this Versions and make sure to copy update_consts.py into the same folder.
+ Replace the plugin.py with this Versions and make sure to copy update_consts.py into the same folder. (The uplay one I had you open)
 
  Retry connection. (May have to restart GOG Galaxy)
 
