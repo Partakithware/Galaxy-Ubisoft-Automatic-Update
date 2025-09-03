@@ -1,6 +1,10 @@
 # Galaxy-Ubisoft-Automatic-Update
 Update to the gog-galaxy ubisoft integration that allows the AppID and GenomeID to fetch upto date information each start.
 
+Just added a zip release, if you would like to be part of tracked downloads get the update from there.
+
+[![Downloads](https://img.shields.io/github/downloads/Partakithware/Galaxy-Ubisoft-Automatic-Update/total?style=for-the-badge)](https://github.com/Partakithware/Galaxy-Ubisoft-Automatic-Update/releases)
+
 
 Installation:
  Open the Uplay plugin directory (installed via gog galaxy settings)
